@@ -7,7 +7,7 @@
  * Requires PHP:      7.4
  * Version:           0.1.0
  * Author:            Nik McLaughlin
- * Plugin ID:         did:plc:abc123
+ * Plugin ID:         did:plc:fwtppz4aoanu4hqratteuqj7
  * GitHub Plugin URI: nikolas4175-godaddy/local-dev-blocks
  * Primary Branch:    main
  * License:           GPL-2.0-or-later
