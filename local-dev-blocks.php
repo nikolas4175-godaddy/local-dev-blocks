@@ -9,6 +9,7 @@
  * Author:            Nik McLaughlin
  * Plugin ID:         did:plc:abc123
  * GitHub Plugin URI: nikolas4175-godaddy/local-dev-blocks
+ * Primary Branch:    main
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       local-dev-blocks
